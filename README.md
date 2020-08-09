@@ -1,5 +1,4 @@
-# Week-8-Ip
-Week 8 IP
+# A Classification Model for Hyperthyroidsm
 
 
 

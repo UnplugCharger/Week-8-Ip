@@ -2,7 +2,8 @@
 
 
 
-Question
+**Question**
+
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:
 
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
@@ -29,16 +30,16 @@ This can lead to physical and mental growth problems, but early treatment can pr
 
 Metricst of success our modl will be evaluated on the accuracy .. we are aimming at the highest accuracy possible since this is a question to do with health and it is a sensitive matter
 
-Work flow
+**Work flow**
 
-Loaing the dataset
+1.Loaing the dataset
 
-Data Cleaning and EDA
+2.Data Cleaning and EDA
 
-Building Machine Learning Models
+3.Building Machine Learning Models
 
-Optimised Decision Trees
+     Optimised Decision Trees
 
-Support Vector Machines
+     Support Vector Machines
 
 Conclution
